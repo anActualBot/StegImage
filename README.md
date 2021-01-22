@@ -18,8 +18,13 @@ Launch the program by running the "run.py" file
 
 **INCLUDED FILES**
 
-- *run.py* : this is the file that runs the entire program (the "__main__" function)
+- *run.py* : this is the file that runs the entire program (the "\_\_main\_\_" function).
 
 - *gui_main.py* : includes all gui elements and the main function, this is the core code.
 
 - *utils.py* : this includes some utility functions in addition to the Encoding and Decoding functions.
+
+
+**DEPENDENCIES**
+
+- Python Image Library (PIL) https://pillow.readthedocs.io/en/stable/installation.html#basic-installation
